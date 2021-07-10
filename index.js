@@ -121,5 +121,5 @@ client.on("ready", async () => {
   await client.updateDatabase();
 });
 
-client.login(process.env.token);
+client.login("NzU0NjExNTIyMTUxNTE0MjEz.X13Qvg.jWNsR7UshRpDrHUT9BDgknRdAzw");
 "Garlic-Team <3";
